@@ -27,7 +27,7 @@ A Python utility that automatically organizes files in a folder into structured 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/smart-file-organizer.git
+git clone https://github.com/amir-dev-flux/smart-file-organizer.git
 cd smart-file-organizer
 ```
 
