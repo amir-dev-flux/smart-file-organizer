@@ -22,6 +22,16 @@ A Python utility that automatically organizes files in a folder into structured 
 - Archives: zip, rar, 7z
 - Installers: exe, msi
 
+## Before and After
+
+### Before (Unorganized Folder)
+
+![Before](screenshots/before.png)
+
+### After (Organized by Script)
+
+![After](screenshots/after.png)
+
 ## How to Run
 
 1. Clone the repository:
