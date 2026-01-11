@@ -26,7 +26,7 @@ A Python utility that automatically organizes files in a folder into structured 
 
 ### Before (Unorganized Folder)
 
-![Before](screenshots/before.png)
+![Before](screenshots/before.gif)
 
 ### After (Organized by Script)
 
